@@ -12,3 +12,17 @@ C:\Users\ecastillo\source\repos\ecommerce\Ecommerce.Application\bin\Debug\netcor
 C:\Users\ecastillo\source\repos\ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Database.pdb
 C:\Users\ecastillo\source\repos\ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
 C:\Users\ecastillo\source\repos\ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csproj.CopyComplete
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.deps.json
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.dll
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.pdb
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Database.dll
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Database.pdb
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csprojAssemblyReference.cache
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csproj.CoreCompileInputs.cache
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.AssemblyInfoInputs.cache
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.AssemblyInfo.cs
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csproj.CopyComplete
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.dll
+E:\Programming\Repository\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.pdb

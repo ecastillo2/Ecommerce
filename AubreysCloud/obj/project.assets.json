@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\AubreysCloud\\AubreysCloud.csproj",
+      "projectUniqueName": "E:\\Programming\\Repository\\Ecommerce\\AubreysCloud\\AubreysCloud.csproj",
       "projectName": "AubreysCloud",
-      "projectPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\AubreysCloud\\AubreysCloud.csproj",
+      "projectPath": "E:\\Programming\\Repository\\Ecommerce\\AubreysCloud\\AubreysCloud.csproj",
       "packagesPath": "C:\\Users\\ecastillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\AubreysCloud\\obj\\",
+      "outputPath": "E:\\Programming\\Repository\\Ecommerce\\AubreysCloud\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -7,3 +7,12 @@ C:\Users\ecastillo\source\repos\ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3
 C:\Users\ecastillo\source\repos\ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.dll
 C:\Users\ecastillo\source\repos\ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
 C:\Users\ecastillo\source\repos\ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csprojAssemblyReference.cache
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.deps.json
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csprojAssemblyReference.cache
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfoInputs.cache
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfo.cs
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+E:\Programming\Repository\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.pdb

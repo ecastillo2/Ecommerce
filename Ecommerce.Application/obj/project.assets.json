@@ -6272,11 +6272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
+      "projectUniqueName": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
       "projectName": "Ecommerce.Application",
-      "projectPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
+      "projectPath": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
       "packagesPath": "C:\\Users\\ecastillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Application\\obj\\",
+      "outputPath": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6297,8 +6297,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Database\\Ecommerce.Database.csproj": {
-              "projectPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Database\\Ecommerce.Database.csproj"
+            "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Database\\Ecommerce.Database.csproj": {
+              "projectPath": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Database\\Ecommerce.Database.csproj"
             }
           }
         }

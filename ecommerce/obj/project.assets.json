@@ -7939,11 +7939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\ecommerce\\CertifiedGrinder.csproj",
+      "projectUniqueName": "E:\\Programming\\Repository\\Ecommerce\\ecommerce\\CertifiedGrinder.csproj",
       "projectName": "CertifiedGrinder",
-      "projectPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\ecommerce\\CertifiedGrinder.csproj",
+      "projectPath": "E:\\Programming\\Repository\\Ecommerce\\ecommerce\\CertifiedGrinder.csproj",
       "packagesPath": "C:\\Users\\ecastillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\ecommerce\\obj\\",
+      "outputPath": "E:\\Programming\\Repository\\Ecommerce\\ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -7964,8 +7964,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-              "projectPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj"
+            "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+              "projectPath": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj"
             }
           }
         }

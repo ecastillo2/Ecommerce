@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5Yv1NI8fBbDirtqgrosegx9rbJkwYTnpTkOCW5ACoCQjvNuvn3FjO+Y9E5DAWks85Bn54ADKDThungked2r1w==",
+  "dgSpecHash": "AnBhdl+hunFgeGbZ9J6fiD9ILtz7mZzeHGrFvfpXf8ffpvNK0mat7cnRUwUPBseb8mFELvX1wlDui3Bla2esQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
+  "projectFilePath": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ecastillo\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.0\\microsoft.aspnetcore.authentication.2.1.0.nupkg.sha512",
     "C:\\Users\\ecastillo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",

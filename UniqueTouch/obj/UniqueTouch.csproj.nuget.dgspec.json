@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\UniqueTouch\\UniqueTouch.csproj": {}
+    "E:\\Programming\\Repository\\Ecommerce\\UniqueTouch\\UniqueTouch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\UniqueTouch\\UniqueTouch.csproj": {
+    "E:\\Programming\\Repository\\Ecommerce\\UniqueTouch\\UniqueTouch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\UniqueTouch\\UniqueTouch.csproj",
+        "projectUniqueName": "E:\\Programming\\Repository\\Ecommerce\\UniqueTouch\\UniqueTouch.csproj",
         "projectName": "UniqueTouch",
-        "projectPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\UniqueTouch\\UniqueTouch.csproj",
+        "projectPath": "E:\\Programming\\Repository\\Ecommerce\\UniqueTouch\\UniqueTouch.csproj",
         "packagesPath": "C:\\Users\\ecastillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\UniqueTouch\\obj\\",
+        "outputPath": "E:\\Programming\\Repository\\Ecommerce\\UniqueTouch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

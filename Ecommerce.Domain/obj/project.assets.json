@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+      "projectUniqueName": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
       "projectName": "Ecommerce.Domain",
-      "projectPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+      "projectPath": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
       "packagesPath": "C:\\Users\\ecastillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\Ecommerce.Domain\\obj\\",
+      "outputPath": "E:\\Programming\\Repository\\Ecommerce\\Ecommerce.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vTL+2nbpu7k41bInAy211Af8v2QMoBP5c8nXhBDz75nIMUNmLe2upV+6+V+qsaviERf0Dzvm/LL+lpdMaK5Fig==",
+  "dgSpecHash": "5ss4PFELv/+CKdTsgtcgz9dp2N45s0itrJVYMYXzp61IPMheYLGUIycroZl4MQ7sh5lePhZ+3dsjlqC0ZpaJPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ecastillo\\source\\repos\\ecommerce\\ecommerce\\CertifiedGrinder.csproj",
+  "projectFilePath": "E:\\Programming\\Repository\\Ecommerce\\ecommerce\\CertifiedGrinder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ecastillo\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.0\\microsoft.aspnetcore.authentication.2.1.0.nupkg.sha512",
     "C:\\Users\\ecastillo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",
