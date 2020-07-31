@@ -14,7 +14,8 @@ namespace Ecommerce.Domain.Models
         abstract public string imageOne { get; set; }
         abstract public string imageTwo { get; set; }
         abstract public string imageThree { get; set; }
-        abstract public int Value { get; set; }
+        abstract public int Price { get; set; }
+        abstract public string TrackingNumber { get; set; }
         abstract public ICollection<Stock> Stock { get; set; }
         abstract public ICollection<OrderProduct> OrderProducts { get; set; }
     }

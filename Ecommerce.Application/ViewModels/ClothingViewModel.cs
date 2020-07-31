@@ -22,7 +22,8 @@ namespace Ecommerce.Application.ViewModels
         public override string imageOne { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public override string imageTwo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public override string imageThree { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override int Value { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public override int Price { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public override string TrackingNumber { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public override ICollection<Stock> Stock { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public override ICollection<OrderProduct> OrderProducts { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }

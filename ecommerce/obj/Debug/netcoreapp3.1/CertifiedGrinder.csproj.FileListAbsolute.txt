@@ -133,3 +133,4 @@ E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\staticweba
 E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\CertifiedGrinder.dll
 E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\CertifiedGrinder.pdb
 E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\CertifiedGrinder.genruntimeconfig.cache
+E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Account\StaffLogin.cshtml.g.cs
