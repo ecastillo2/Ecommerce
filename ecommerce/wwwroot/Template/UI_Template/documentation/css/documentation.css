@@ -1,0 +1,116 @@
+/*   
+Template Name: documentation
+Version: 1.0
+Author: KL-Webmedia
+*/
+
+.navbar > .container .navbar-brand img,
+.navbar > .container-fluid .navbar-brand img {
+    position: relative;
+    top: -13px;
+}
+.bs-docs-nav .navbar-brand, .bs-docs-nav .navbar-nav > li > a {
+    color: #00b3fe;
+}
+.back-to-top:hover {
+    color: #fff;
+}
+.bs-docs-header img {
+    height: 164px; 
+    width: auto; 
+    position: absolute; 
+    right: 0; 
+    top: -30px; 
+}
+.bs-docs-nav .navbar-nav > li > a:hover,
+.bs-docs-nav .navbar-nav > .active > a,
+.bs-docs-nav .navbar-nav > .active > a:hover {
+    color: #f97307;
+}
+.bs-docs-masthead, 
+.bs-docs-header {
+    background: #00b3fe;
+    color: #bfecff;
+}
+.bs-docs-sidebar .nav > .active > a,
+.bs-docs-sidebar .nav > .active:hover > a,
+.bs-docs-sidebar .nav > .active:focus > a,
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+    color: #f97307;
+}
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+    border: none;
+    color: #8a8f6a !important;
+}
+.bs-docs-sidebar {
+    background: #282828;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.bs-docs-sidenav li {
+    padding: 5px 0;
+}
+.bs-docs-sidenav li a i {
+    margin-right: 15px;
+}
+.bs-docs-sidenav li a {
+    font-size: 14px !important;
+    text-transform: uppercase;
+    font-weight: 600 !important;
+}
+a.back-to-top {
+    bottom: 0 !important;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #8a8f6a;
+    font-weight: 600;
+}
+a.back-to-top i {
+    margin-right: 15px;
+    font-size: 18px !important;
+}
+
+figure {
+    margin:0 0 10px;
+}
+figure .thumbnail {
+    display: inline-block;
+    margin-bottom: 0;
+}
+figure figcaption {
+    font-size: 13px;
+    color: #999;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+h3 .small {
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.bs-callout {
+    padding: 10px;
+}
+
+.icon-presentation {
+    margin-bottom: 15px; 
+    text-align: center;
+}
+.icon-presentation div[class^="col-"] {
+    padding-top: 12px; padding-bottom: 10px;
+}
+.icon-presentation i {
+    font-size: 30px;
+}
+.icon-presentation hr {
+    margin: 2px 0 8px;
+}
