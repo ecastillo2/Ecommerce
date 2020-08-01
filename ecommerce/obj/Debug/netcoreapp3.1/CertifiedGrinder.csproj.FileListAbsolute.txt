@@ -135,3 +135,4 @@ E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\Razor\View
 E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\Product.cshtml.g.cs
 E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductDetails.cshtml.g.cs
 E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Shop.cshtml.g.cs
+E:\Programming\Repository\Ecommerce\ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\About\About.cshtml.g.cs

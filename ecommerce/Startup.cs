@@ -7,6 +7,8 @@ using Ecommerce.Database;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -28,6 +30,26 @@ namespace ecommerce
             services.AddControllersWithViews();
 
             // services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(_config["DefaultConnection"], base => base.Migra);
+            services.AddDbContextPool<ApplicationDbContext>(
+
+                opitons => opitons.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+            {
+                options.Password.RequiredLength = 10;
+                options.Password.RequireLowercase = true;
+                options.Password.RequireUppercase = true;
+                options.Password.RequireNonAlphanumeric = true;
+                options.Password.RequireDigit = false;
+            })
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddDefaultTokenProviders();
+
+            services.AddDbContextPool<ProductContext>(opitons => opitons.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContextPool<OrderProductContext>(opitons => opitons.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContextPool<StockContext>(opitons => opitons.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContextPool<OrderContext>(opitons => opitons.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            //services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddSession();
         }
