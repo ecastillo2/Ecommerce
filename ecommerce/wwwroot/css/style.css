@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*=============================================
             TABLE OF CONTENT                 
 =============================================*/
@@ -2460,6 +2460,7 @@ blockquote p,
     color: #fff;
     -webkit-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
+    color: #8a8f6a;
 }
 .main-nav.menu-dark .inner-nav > ul > li > a:hover,
 .main-nav.menu-dark .inner-nav > ul > li > a:focus,
