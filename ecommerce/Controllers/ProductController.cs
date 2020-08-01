@@ -28,7 +28,7 @@ namespace ecommerce.Controllers
         public IActionResult Product()
         {
 
-            getProduct.GetClothingProducts();
+            //getProduct.GetClothingProducts();
 
             return View();
         }
